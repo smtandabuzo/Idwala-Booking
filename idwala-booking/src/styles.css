@@ -1,0 +1,40 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+
+h1.navbar-brand_ {
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: absolute;
+  top: 0;
+  left: 60px;
+}
+
+.logo_large {
+  float: left;
+  padding-top: 25%;
+  max-width: 220px;
+}
+
+h1.navbar-brand_ .logo_medium {
+  display: none;
+}
+
+.follow-box {
+  background: #0b0f13;
+  overflow: hidden;
+  padding: 14px 0 14px 0;
+}
+
+.follow_icon {
+  padding: 0;
+  margin: 0 46px 0 46px;
+  float: right;
+  list-style: none;
+}
+
+.address_icon {
+  padding: 0;
+  margin: 2px 0 0 0;
+  float: right;
+  list-style: none;
+}
